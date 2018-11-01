@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16px"
+   height="16px"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="gw2da-logo-bg.svg"
+   inkscape:export-filename="/home/algorithmite/Documents/Projects/GW2DA/GW2DALibrary/gw2da-logo-bg-min.png"
+   inkscape:export-xdpi="1536"
+   inkscape:export-ydpi="1536">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="9.6620877"
+     inkscape:cy="8.6925556"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3750"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs3713">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5894">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5884" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5886" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.1"
+         result="blur"
+         id="feGaussianBlur5888" />
+      <feOffset
+         dx="0.2"
+         dy="0.2"
+         result="offset"
+         id="feOffset5890" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5892" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5906">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5896" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5898" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.1"
+         result="blur"
+         id="feGaussianBlur5900" />
+      <feOffset
+         dx="0.2"
+         dy="0.2"
+         result="offset"
+         id="feOffset5902" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5904" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5918">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5908" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5910" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.1"
+         result="blur"
+         id="feGaussianBlur5912" />
+      <feOffset
+         dx="0.2"
+         dy="0.2"
+         result="offset"
+         id="feOffset5914" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5916" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5930">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5920" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5922" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.1"
+         result="blur"
+         id="feGaussianBlur5924" />
+      <feOffset
+         dx="0.2"
+         dy="0.2"
+         result="offset"
+         id="feOffset5926" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5928" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter5942">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5932" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5934" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.1"
+         result="blur"
+         id="feGaussianBlur5936" />
+      <feOffset
+         dx="0.2"
+         dy="0.2"
+         result="offset"
+         id="feOffset5938" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5940" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata3716">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Background">
+    <rect
+       style="fill:#d0d0d0;fill-opacity:1;stroke-width:2.90562224"
+       id="rect4584"
+       width="16"
+       height="16"
+       x="0"
+       y="0"
+       ry="2.53125" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g3744"
+     inkscape:label="2"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:67.69991302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#681106;fill-opacity:1;stroke:none;stroke-width:1.69249773;filter:url(#filter5918)"
+       x="2.0237389"
+       y="13.440053"
+       id="text3742"><tspan
+         sodipodi:role="line"
+         id="tspan3740"
+         x="2.0237389"
+         y="13.440053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.0533123px;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;fill:#681106;fill-opacity:1;stroke-width:1.69249773">2</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Guild"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:64.50442505px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d6230c;fill-opacity:1;stroke:none;stroke-width:1.6126107;filter:url(#filter5906)"
+       x="0.50283492"
+       y="7.5611587"
+       id="text3732"><tspan
+         sodipodi:role="line"
+         id="tspan3730"
+         x="0.50283492"
+         y="7.5611587"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.60059071px;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;fill:#d6230c;fill-opacity:1;stroke-width:1.6126107">G</tspan></text>
+  </g>
+  <g
+     inkscape:label="Wars"
+     id="g3738"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <text
+       id="text3736"
+       y="14.616689"
+       x="-0.067309111"
+       style="font-style:normal;font-weight:normal;font-size:64.50442505px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d6230c;fill-opacity:1;stroke:none;stroke-width:1.6126107;filter:url(#filter5894)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.60059071px;font-family:Metamorphous;-inkscape-font-specification:Metamorphous;fill:#d6230c;fill-opacity:1;stroke-width:1.6126107"
+         y="14.616689"
+         x="-0.067309111"
+         id="tspan3734"
+         sodipodi:role="line">W</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:groupmode="layer"
+     id="g3750"
+     inkscape:label="Data">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:94.35223389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.35880566;filter:url(#filter5942)"
+       x="8.5386124"
+       y="7.1313462"
+       id="text3748"><tspan
+         sodipodi:role="line"
+         id="tspan3746"
+         x="8.5386124"
+         y="7.1313462"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.58029938px;font-family:Iceland;-inkscape-font-specification:Iceland;stroke-width:2.35880566">D</tspan></text>
+  </g>
+  <g
+     inkscape:label="Analyzer"
+     id="g3756"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <text
+       id="text3754"
+       y="14.723757"
+       x="8.4648991"
+       style="font-style:normal;font-weight:normal;font-size:94.35223389px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.35880566;filter:url(#filter5930)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.58029938px;font-family:Iceland;-inkscape-font-specification:Iceland;stroke-width:2.35880566"
+         y="14.723757"
+         x="8.4648991"
+         id="tspan3752"
+         sodipodi:role="line">A</tspan></text>
+  </g>
+</svg>
