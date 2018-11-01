@@ -2,8 +2,9 @@
 
 # Guild Wars 2 Data Analyzer
 
-[![Travis](https://img.shields.io/travis/Luke-Draper/guild-wars-two-data-analyzer.svg)](https://travis-ci.org/Luke-Draper/guild-wars-two-data-analyzer)
-[![Coveralls](https://coveralls.io/repos/github/Luke-Draper/guild-wars-two-data-analyzer/badge.svg?branch=master)](https://coveralls.io/github/Luke-Draper/guild-wars-two-data-analyzer?branch=master)
+[![Build Status](https://img.shields.io/travis/Luke-Draper/guild-wars-two-data-analyzer.svg)](https://travis-ci.org/Luke-Draper/guild-wars-two-data-analyzer)
+[![Testing Coverage](https://coveralls.io/repos/github/Luke-Draper/guild-wars-two-data-analyzer/badge.svg?branch=master)](https://coveralls.io/github/Luke-Draper/guild-wars-two-data-analyzer?branch=master)
+[![Dependencies Status](https://david-dm.org/Luke-Draper/guild-wars-two-data-analyzer/status.svg)](https://david-dm.org/Luke-Draper/guild-wars-two-data-analyzer)
 [![Dev Dependencies Status](https://david-dm.org/Luke-Draper/guild-wars-two-data-analyzer/dev-status.svg)](https://david-dm.org/Luke-Draper/guild-wars-two-data-analyzer?type=dev)
 
 > A TypeScript library to analyze the items, crafting recipes, and trading post prices of Guild Wars 2 and provide a searchable data tree.
