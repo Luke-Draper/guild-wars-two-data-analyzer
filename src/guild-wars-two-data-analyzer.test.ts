@@ -1,4 +1,4 @@
-import DummyClass from '../src/guild-wars-two-data-analyzer'
+import DummyClass from './guild-wars-two-data-analyzer'
 
 /**
  * Dummy test
